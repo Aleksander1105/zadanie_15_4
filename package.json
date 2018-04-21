@@ -23,6 +23,7 @@
     "babel-preset-latest": "^6.24.1"
   },
   "dependencies": {
-    "babel-standalone": "^6.26.0"
+    "babel-standalone": "^6.26.0",
+    "rimraf": "^2.6.2"
   }
 }
